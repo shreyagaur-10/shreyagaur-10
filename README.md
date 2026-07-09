@@ -59,25 +59,4 @@ Led a team from idea to a first-place build under hackathon time pressure — ow
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyagaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagaur&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyagaur&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyagaur&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center"><i>Code. Learn. Build. Repeat.</i></p>
